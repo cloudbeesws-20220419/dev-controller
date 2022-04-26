@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "cloudbeesws-20220419-dev-controller"
+description: "CloudBees CI configuration bundle for the cloudbeesws-20220419 dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/cloudbeesws-20220419/dev-controller"
+parent: "base"
